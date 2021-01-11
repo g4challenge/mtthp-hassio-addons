@@ -3,9 +3,11 @@
     "version": "20.0.3",
     "slug": "nextcloud",
     "description": "Self-hosted file share and collaboration platform on the web",
-    "url": "https://github.com/mtthp/hassio-addons/tree/master/nextcloud",
+    "url": "https://github.com/d-two/mtthp-hassio-addons/tree/master/nextcloud",
     "webui": "http://[HOST]:[PORT:80]",
-    "panel_icon": "mdi:cloud-sync",
+    "ingress": true,
+    "ingress_port": 0,
+    "panel_icon": "mdi:database-edit",
     "startup": "services",
     "boot": "auto",
     "ports": {
@@ -34,6 +36,5 @@
         "armhf",
         "armv7",
         "i386"
-    ],
-    "image": "mtthp/{arch}-addon-nextcloud"
+    ]
 }
