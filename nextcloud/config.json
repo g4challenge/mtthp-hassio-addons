@@ -7,7 +7,7 @@
     "webui": "http://[HOST]:[PORT:80]",
     "ingress": true,
     "ingress_port": 0,
-    "panel_icon": "mdi:database-edit",
+    "panel_icon": "mdi:cloud-sync",
     "startup": "services",
     "boot": "auto",
     "ports": {
