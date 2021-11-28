@@ -1,6 +1,6 @@
 {
     "name": "Nextcloud",
-    "version": "20.0.3",
+    "version": "20.0.5",
     "slug": "nextcloud",
     "description": "Self-hosted file share and collaboration platform on the web",
     "url": "https://github.com/d-two/mtthp-hassio-addons/tree/master/nextcloud",
