@@ -1,5 +1,7 @@
 # Hass.io Add-ons for Home Assistant
 
+[![Build add-on](https://github.com/g4challenge/mtthp-hassio-addons/actions/workflows/builder.yml/badge.svg)](https://github.com/g4challenge/mtthp-hassio-addons/actions/workflows/builder.yml)
+
 ## Install
 
 These add-ons can be installed in Home Assistant by [configuring the following URL in the Hass.io panel](https://home-assistant.io/hassio/installing_third_party_addons/):
